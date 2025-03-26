@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @description ：引导类程序
  */
 @SpringBootApplication
+@MapperScan("com.ai.mapper")
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
