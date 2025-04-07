@@ -29,3 +29,6 @@ ai:
     user-ttl: 7200000
     # 设置前端传递过来的令牌名称
     user-token-name: token
+  text:
+    apiKey: sk-ea58a9cd3932458ab8e041b0ce034d3d
+    appId: 2daf8b6f45a6413a9c986a3efcca02db
